@@ -36,6 +36,6 @@ Pretrained weights, claases, bounding box settings, all relevant parts of the mo
 
 ## Results
 
-![](redim5.jpeg)
+![](nb_images/redim5.jpeg)
 
-![](redim3.jpeg)
+![](nb_images/redim3.jpeg)
