@@ -26,7 +26,7 @@ The YOLO model implementation uses a pre-trained deep CNN which converts a prepr
 The notebook uses keras and tensorflow v1.
 Sample images are preprocessed to the requierements of the pre-trained model.
 Helper functions are provided in the file `yolo_utils.py`.
-Pretrained weights, claases, bounding box settings, all relevant parts of the model, are provided in the model_data folder.
+Classes, bounding box settings parts of the model, are provided in the model_data folder. Pretrained weights and model details can be found on Coursera CNN module.
 
 # Implementation
 - Download the repository
